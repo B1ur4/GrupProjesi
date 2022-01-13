@@ -1,1 +1,2 @@
-# GrupProjesi Bora Değirmenci Çağrı Yılmaz Anıl Barut Yasir Selek
+# GrupProjesi 
+#BoraDeğirmenci ÇağrıYılmaz AnılBarut YasirSelek
